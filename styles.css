@@ -1,0 +1,211 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5E8DC;
+    color: #000000;
+}
+#header {
+    background-color: #5C0011;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+#header h1 {
+    margin: 0;
+}
+#header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+#header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+#header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+#hero {
+    text-align: center;
+    background-color:#F5E8DC;
+    padding: 50px;
+    padding-bottom: 80px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    border-style: solid;
+    border-width: 0px 0px 4px 0px;
+    border-bottom-color:#5C0011; 
+}
+#hero h2 {
+    font-size: 2em;
+    margin: 0;
+}
+#hero p {
+    font-size: 1.2em;
+}
+#footer {
+    background-color:#5C0011;
+    position: fixed;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+#i1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left:10px;
+}
+#i2{
+    size: 18px;
+    text-indent: 10px;
+}
+.c1{
+    color: #B87333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.c2{
+    color: #003d3d;
+}
+.c3{ 
+    font-size: 24px;
+    color: #333333;
+}
+p.b1{
+    padding-left:7px;
+    padding-right:7px;
+    border-style: solid;
+    border-width: 0px 0px 4px 0px;
+    border-bottom-color:#5C0011; 
+    margin-top: 10px;
+    padding-bottom: 7px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#003d3d;
+}
+.b2{
+    text-decoration: underline;
+    font-size: 25px;
+    padding-left:12px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b3{
+    width:70%;
+    color:#003d3d;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    font-size: 20px;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b4{
+    color:#003d3d;
+    padding-top: 5px;
+    margin-top: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+.ft{
+    border-style: solid;
+    border-width: 4px 0px 0px 0px;
+    border-top-color:#5C0011; 
+    margin-bottom:0px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    color: #8A4E1E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px; 
+    text-align: center;
+}
+.b5{
+    font-size: 27px; 
+    text-align: center;
+    font-size: 25px;
+    padding-left:12px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b6{
+    color:#135454;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    font-size: 20px;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b9{
+    border-style: solid;
+    border-width: 4px 0px 0px 0px;
+    border-top-color:#5C0011; 
+    margin-bottom:0px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    color: #003d3d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 19px; 
+    text-align: center;
+}
+.b7{
+    font-size: 20px;
+    padding-left:12px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b8{
+    font-size:16px;
+    color:#135454;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid; 
+    border-width: 0px 0px 1px 0px; 
+    border-bottom-color:#5C0011; 
+    padding-bottom: 7px
+}
+.b10{
+    font-size:18px;
+    color:#135454;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hp{
+    padding-left:7px;
+    padding-right:7px;
+    border-style: solid;
+    text-align: center;
+    border-width: 0px 0px 4px 0px;
+    border-bottom-color:#5C0011; 
+    margin-top: 30px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#003d3d;
+    font-style: italic; 
+}
+.hp1{
+    padding-left:7px;
+    padding-right:7px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#003d3d;
+    font-style: italic;
+    text-align: center;
+}
